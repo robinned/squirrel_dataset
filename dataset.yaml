@@ -1,4 +1,0 @@
-names: ["Squirrel"]
-nc: 1
-val: ../squirrel_dataset/images/val
-train: ../squirrel_dataset/images/train

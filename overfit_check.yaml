@@ -1,0 +1,4 @@
+names: ["Squirrel"]
+nc: 1
+val: ../squirrel_dataset/dataset_one/images
+train: ../squirrel_dataset/dataset_one/images
