@@ -4,3 +4,6 @@ not sure which one is the best/actually properly labeled (This project was done
 before "good file organization" was a part of my skillset). All images are hand-labeled,
 and only pictures of live, brown squirrels are included. I'm not sure the exact species,
 but these are squirrels that are typically found in the San Francisco bay area.
+
+# Image Sources
+Some of the images are taken by me (robinned). Many of the images are sourced from Google's Open Images dataset. To ensure labeling consistancy, many of the images from that dataset were relabled.
